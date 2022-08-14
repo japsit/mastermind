@@ -18,6 +18,10 @@ void timer(void){
 	seconds++;
 }
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> fa53b3f (Store final coding assignment)
 // Funktio generoi s numeron sarjan
 int generatecode(char* code, int s)
 {
